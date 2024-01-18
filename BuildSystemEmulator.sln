@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildSystemEmulator", "BuildSystemEmulator\BuildSystemEmulator.csproj", "{98FF5562-51BB-45BD-91AB-B6D6F42A25EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98FF5562-51BB-45BD-91AB-B6D6F42A25EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FF5562-51BB-45BD-91AB-B6D6F42A25EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FF5562-51BB-45BD-91AB-B6D6F42A25EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FF5562-51BB-45BD-91AB-B6D6F42A25EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801F6390-6ADA-497B-AE78-1F4B5AF5BB00}
+	EndGlobalSection
+EndGlobal
